@@ -1,0 +1,20 @@
+{
+  "name": "toastlibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Toast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moynuddin/JSToastr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moynuddin/JSToastr/issues"
+  },
+  "homepage": "https://github.com/moynuddin/JSToastr#readme"
+}
